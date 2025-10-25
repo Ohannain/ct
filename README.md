@@ -44,3 +44,6 @@ Proposed json structure for easy access of actor information:
         ],
     }
 ```
+
+music
+filming location
